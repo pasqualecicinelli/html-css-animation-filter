@@ -94,6 +94,17 @@
   width: 400px;
 }
 
+.ex-9-img:hover{
+  border-radius: 20px;
+}
+.ex-9-img:hover{
+  transform: scale(1.5);
+}
+.ex-9-img:hover{
+  transition: 3s;
+}
+
+
 .ex-10-icon {
   font-size: 60px;
 }
