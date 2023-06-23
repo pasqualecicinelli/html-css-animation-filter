@@ -17,16 +17,22 @@
   height: 100px;
   background: red;
   transition: all 3s;
- 
+
 }
-.ex-2-square:active{
- width: 100%;
+
+.ex-2-square:active {
+  width: 100%;
 }
 
 .ex-3-square {
   width: 100px;
   height: 100px;
   background: red;
+}
+
+.ex-3-square:hover {
+  transition: all 1s;
+  border-radius: 50%;
 }
 
 .ex-4-square {
